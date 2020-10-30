@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<strong>I'm Sami Ghasemi, or sami2020pro, I'm a student and programmer, currently teaching at silicium</strong>
+
 <!--
 **sami2020pro/sami2020pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
