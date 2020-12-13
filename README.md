@@ -7,6 +7,15 @@
 - ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak">Pashmak</a>
 - 💬 Ask me about BUGs
 - 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
+
+<div>
+  <img 
+    src="os.png"
+    alt="Smai Ghasemi | sami2020pro | GitHub"
+    style="max-width:100%;"
+  />
+</div>
+
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
