@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on most **programming languages**
 - 🌱 I’m currently learning **Go** and **Rust**
-<!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...-->
 - ℹ️ I’m currently helping <a href="">Pashmak</a>
 - 💬 Ask me about BUGs
 - 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 <!--- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...-->
