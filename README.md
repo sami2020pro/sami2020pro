@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on most **programming languages**
 - 🌱 I’m currently learning **Go** and **Rust**
-- ℹ️ I’m currently helping <a href="">Pashmak</a>
+- ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak">Pashmak</a>
 - 💬 Ask me about BUGs
 - 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 <!--- 😄 Pronouns: ...
