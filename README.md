@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<strong>I'm Sami Ghasemi, or sami2020pro, I'm a student and programmer, currently teaching at silicium</strong>
+<strong>I'm Sami Ghasemi, or sami2020pro, I'm a student and programmer, currently teaching at silicium and parsclick</strong>
 
 - 🔭 I’m currently working on most **programming languages**
 - 🌱 I’m currently learning **Go** and **Rust** and ***Nim***
