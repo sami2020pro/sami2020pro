@@ -10,7 +10,7 @@
 - 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 
 [![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-[![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=Naereen&theme=blue-green)
 
 <div>
   <img 
