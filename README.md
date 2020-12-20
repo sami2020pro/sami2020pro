@@ -9,7 +9,8 @@
 - 💬 Ask me about BUGs
 - 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img 
