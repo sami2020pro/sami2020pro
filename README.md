@@ -2,12 +2,12 @@
 
 <strong>I'm Sami Ghasemi, or sami2020pro, I'm a student and programmer, currently teaching at silicium and parsclick</strong>
 
-- 🔭 I’m currently working on most **programming languages**
-- 🌱 I’m currently learning **Go** and **Rust** and ***Nim***
-- 🧊 I’m currently building a web framework for **Nim** language
+- 🔭 I’m currently <img src="https://img.icons8.com/color/48/000000/work.png"> working on most **programming languages**
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/golang.png"> **Go** and **Rust** and ***Nim***
+- 🧊 I’m currently building a <img src="https://img.icons8.com/color/48/000000/web.png"> web framework for **Nim** language
 - ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak">Pashmak</a>
-- 💬 Ask me about BUGs
-- 📫 How to reach me: <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
+- 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/bug.png"> BUGs
+- 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png"> <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 
 ![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sami2020pro&theme=algolia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
