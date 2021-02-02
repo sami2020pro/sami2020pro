@@ -3,8 +3,8 @@
 <strong>I'm Sami Ghasemi, or sami2020pro, I'm a student and programmer, currently teaching at silicium and parsclick</strong>
 
 - 🔭 I’m currently <img src="https://img.icons8.com/color/48/000000/work.png" width="20" height="20"> working on most **programming languages**
-- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/golang.png" width="20" height="20"> **Go** and **Rust** and ***Nim***
-- 🧊 I’m currently building a <img src="https://img.icons8.com/color/48/000000/web.png" width="20" height="20"> web framework for **Nim** language
+- 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/golang.png" width="20" height="20"> **Go** and **Rust**
+<!-- - 🧊 I’m currently building a <img src="https://img.icons8.com/color/48/000000/web.png" width="20" height="20"> web framework for **Nim** language -->
 - ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak" width="20" height="20">Pashmak</a>
 - 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/bug.png" width="20" height="20"> BUGs
 - 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="20" height="20"> <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
