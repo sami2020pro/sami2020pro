@@ -5,6 +5,7 @@
 - 🔭 I’m currently <img src="https://img.icons8.com/color/48/000000/work.png" width="20" height="20"> working on most **programming languages**
 - 🌱 I’m currently learning <img src="https://img.icons8.com/color/48/000000/golang.png" width="20" height="20"> **Go** and **Rust** and **JavaScript**
 - ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak" width="20" height="20">Pashmak</a>
+- ⚡ I’m currently building a Lisp dialect with **Go**
 - 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/bug.png" width="20" height="20"> BUGs
 - 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="20" height="20"> <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 
