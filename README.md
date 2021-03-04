@@ -9,7 +9,7 @@
 - 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/bug.png" width="20" height="20"> BUGs
 - 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="20" height="20"> <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
 
-![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sami2020pro&theme=algolia) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sami2020pro&theme=shades-of-purple) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 <div>
   <img 
