@@ -7,7 +7,7 @@
 - ℹ️ I’m currently helping <a href="https://github.com/pashmaklang/pashmak" width="20" height="20">Pashmak</a>
 - ⚡ I’m currently building a Lisp dialect with **Go**
 - 💬 Ask me about <img src="https://img.icons8.com/color/48/000000/bug.png" width="20" height="20"> BUGs
-- 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="20" height="20"> <a href="https://twitter.com/samipro80529617">sami ghasemi</a>
+- 📫 How to reach me: <img src="https://img.icons8.com/color/48/000000/twitter.png" width="20" height="20"> <a href="https://twitter.com/samipro80529617">Twitter</a> and <a href="https://www.linkedin.com/in/sami-ghasemi-5044581b8">LinkedIn</a> 
 
 ![Sami Ghasemi most used language](https://github-readme-stats.vercel.app/api/top-langs/?username=sami2020pro&theme=shades-of-purple) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Sami Ghasemi profile](https://github-readme-stats.vercel.app/api?username=sami2020pro&theme=shades-of-purple)](https://github.com/anuraghazra/github-readme-stats)
 
